@@ -1,3 +1,8 @@
+# Reading an Image,Zooming it and returning the image with same dimensions of the input.
 
+The main goals of this file are mentioned below:
+1. Take any image as input and give a zoomed image as output
+2. Use pivot point (where to zoom) and scale as parameters.
+3. Width and height needs to be same of input and output image.
 
 
